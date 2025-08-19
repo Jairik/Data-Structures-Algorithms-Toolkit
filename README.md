@@ -1,12 +1,15 @@
-# Data Structures in multiple languages
+# Data Structures and Algorithms Toolkit
 
-In order to brush up on my algorithms/data structures and learn some more about cool new languages, I will be creating "libraries" encapsulating each different data structures in multiple languages.
+In order to brush up on my algorithms/data structures, learn some more about cool new languages, and provide those hoping to learn data structures some resources, I will be creating "libraries" encapsulating each different data structures in multiple languages.
 
 ## Languages Supported
 
-- Python (Jypter Notebook, Conceptual + Implementation)
+Some data structures/algorithms will be implemented in multiple languages, such as:
+
+- Python (ALL - Jypter Notebook, Conceptual + Implementation)
 - Rust
 - Go
+- Ruby
 - Haskell
 
 ## Data Structures/Algorithms
@@ -55,4 +58,3 @@ Completed ones will be marked with a ✔.
 - Bloom Filter (conceptual only)
 - Skip List (conceptual only)
 - LRU/LFU Cache (w/ HashMap + LinkedList/Heap)
-
