@@ -19,6 +19,7 @@ Completed ones will be marked with a ✔.
 
 ### Core
 
+- Arrays/Strings (Conceptual Only) ✔
 - Linked List - Singly, Doubly, Circular
 
 ### Stacks/Queues
